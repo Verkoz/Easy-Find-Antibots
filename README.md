@@ -1,4 +1,4 @@
-# Easy-Find-Antibots
+# Easy-Find-Antibots - https://discord.gg/BTzCaghJ3Y
 
 Introducing the Easy-Find-Antibot Detector, an intelligent tool designed to help you quickly identify and analyze the anti-bot solutions implemented on websites. This powerful system harnesses the latest advancements in AI technology to detect a wide range of anti-bot providers, including Shape Security, Akamai, reCAPTCHA, DataDome, PerimeterX, and hCaptcha.
 
@@ -15,3 +15,6 @@ Intuitive User Interface: With an easy-to-use interface, you can quickly navigat
 Regular Updates: Our dedicated team continually updates the Easy-Find-Antibot Detector to ensure it stays ahead of the curve and can effectively identify the latest anti-bot solutions.
 
 Stay informed and safeguard your online presence with the Easy-Find-Antibot Detector, the smart choice for navigating the complex world of website security.
+
+
+Join here: https://discord.gg/BTzCaghJ3Y
